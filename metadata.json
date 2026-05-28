@@ -1,0 +1,6 @@
+{
+  "name": "Travel Management App",
+  "description": "An interactive travel dashboard to explore popular destinations, manage hotel bookings, plan expenses, discover local food, and generate customized AI-powered travel itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
